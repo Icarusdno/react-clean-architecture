@@ -710,8 +710,8 @@ export const useAddProductToCart = (): UseCasePort<typeof execute> => {
 ...
 src
   ├── application
-  |   ├── __ports__
-  |   └── useCase
+  │   ├── __ports__
+  │   └── useCase
   ├── domain
   │   └── entity
   │       ├── entities

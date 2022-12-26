@@ -907,8 +907,8 @@ export const convertBytesToMegabytes = (bytes: number) => bytes / 1024 / 1024;
 ...
 src
   ├── application
-  |   ├── __ports__
-  |   └── useCase
+  │   ├── __ports__
+  │   └── useCase
   ├── domain
   │   └── entity
   │       ├── entities
